@@ -1,4 +1,9 @@
-# Udacity_AI_foundations
-Udacity AI foundations Nanodegree - 2018 
+## Udacity AI foundations Nanodegree - 2018 
 
-(Link to confirm)[https://confirm.udacity.com/TSXCGKCE]
+# Projects
+
+- US Bikeshare data analysis - ETL 
+- Analyzing A/B test results with inferential statistics and regression  
+- Implementing a route finder (A* search algorithm)
+
+[Link to confirm](https://confirm.udacity.com/TSXCGKCE)
